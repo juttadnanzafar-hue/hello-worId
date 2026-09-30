@@ -1,4 +1,2 @@
-hello-worId
-===========
-
-My first repository on GitHub.
+juttPapa
+iram kanjari k Hazaro yar
